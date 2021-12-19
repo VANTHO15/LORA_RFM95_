@@ -7,9 +7,10 @@
 
 #include "SX1278_hw.h"
 #include <string.h>
+#include "stm32f4xx_hal.h"
 
-#include "gpio.h"
-#include "spi.h"
+// #include "gpio.h"
+// #include "spi.h"
 
 __weak void SX1278_hw_init(SX1278_hw_t *hw) {
 	SX1278_hw_SetNSS(hw, 1);
