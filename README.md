@@ -12,14 +12,15 @@ II. **Sơ đồ chân**
    - Giao thức SPI. Ta sử dụng 6 chân là MOSI, MISO, SCK, NSS, RESET, DIO0, ngoài ra chọn 1 chân của STM làm chân MODE.
    - MOSI, MISO, SCK là chân của SPI.
    - NSS và RESET là OUTPUT và ban đầu để mức LOW.
-   - DIO0 và MODE là INPUT.
+   - DIO0 và MODE là INPUT.![146666918-2fce6bc4-bd35-4979-b1c6-b6e20fa6c2b1](https://user-images.githubusercontent.com/56969447/146667282-9f9a973b-9c9d-4578-9bf4-617090ce09a1.png)
+
    - Chân MODE sẽ cho phép chúng ta chọn chế độ Slave hay là Master. Chân này chúng ta sẽ nối với nút nhấn để chọn chế độ module LoRa.
    
 III. **Code**
 
 **Bước 1. Tạo project**
 
-    - Cấu hình chân nạp code
+    - Cấu hình chân nạp code.
     
 ![image](https://user-images.githubusercontent.com/56969447/146666540-16b13bb8-18f9-4641-9fad-f93845d234d8.png)
 
