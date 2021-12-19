@@ -16,4 +16,17 @@ II. **Sơ đồ chân**
    - Chân MODE sẽ cho phép chúng ta chọn chế độ Slave hay là Master. Chân này chúng ta sẽ nối với nút nhấn để chọn chế độ module LoRa.
    
 III. **Code**
+
+**Bước 1. Tạo project**
+
+    - Cấu hình chân nạp code
+    
+![image](https://user-images.githubusercontent.com/56969447/146666540-16b13bb8-18f9-4641-9fad-f93845d234d8.png)
+
+**Bước 2. Cấu hình giao tiếp SPI**
+
+    - Chọn mode Full-Duplex Master, còn lại giữ nguyên.
+    
+![image](https://user-images.githubusercontent.com/56969447/146666633-6fc5e9d9-7018-4c5e-bd5a-ab62e7248fb4.png)
+  
   
