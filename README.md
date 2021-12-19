@@ -28,5 +28,16 @@ III. **Code**
     - Chọn mode Full-Duplex Master, còn lại giữ nguyên.
     
 ![image](https://user-images.githubusercontent.com/56969447/146666633-6fc5e9d9-7018-4c5e-bd5a-ab62e7248fb4.png)
+
+**Bước 3. Cấu hình các chân MOSI, MISO, SCK, NSS, RESET, DIO0, MODE**
+
+   - MOSI, MISO, SCK là chân của SPI.
+   - NSS và RESET là OUTPUT và ban đầu để mức LOW.
+   - DIO0 và MODE là INPUT.
+   - Chân MODE sẽ cho phép chúng ta chọn chế độ Slave hay là Master. Chân này chúng ta sẽ nối với nút nhấn để chọn chế độ module LoRa.
+    
+![image](https://user-images.githubusercontent.com/56969447/146666918-2fce6bc4-bd35-4979-b1c6-b6e20fa6c2b1.png)
+
+
   
   
