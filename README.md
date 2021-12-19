@@ -39,6 +39,17 @@ III. **Code**
     
 ![image](https://user-images.githubusercontent.com/56969447/146666918-2fce6bc4-bd35-4979-b1c6-b6e20fa6c2b1.png)
 
+**Bước 4. Thêm thư viện sx1278 vào**
 
+![image](https://user-images.githubusercontent.com/56969447/146667234-9f27ee7e-932c-4bd5-93cb-c0501c822cb9.png)
+
+**Bước 5. Tạo các biến**
+
+![image](https://user-images.githubusercontent.com/56969447/146667243-6a347091-45e1-4329-b612-9400afd616d4.png)
+
+ **Bước 6. Cấu hình các thông số cho LoRa**
+   -  Các bạn sẽ cấu hình tần số theo nhu cầu và sự cho phép sử dụng theo các thông tư, quy định có liên quan, mình sẽ cấu hình sử dụng tần số 915MHz.
+   -  Chân MODE sẽ cho phép chúng ta chọn chế độ Slave hay là Master. Chân này chúng ta sẽ nối với nút nhấn để chọn chế độ module LoRa.
+    
   
   
