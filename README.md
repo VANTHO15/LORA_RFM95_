@@ -51,6 +51,16 @@ III. **Code**
  **Bước 6. Cấu hình các thông số cho LoRa**
    -  Các bạn sẽ cấu hình tần số theo nhu cầu và sự cho phép sử dụng theo các thông tư, quy định có liên quan, mình sẽ cấu hình sử dụng tần số 915MHz.
    -  Chân MODE sẽ cho phép chúng ta chọn chế độ Slave hay là Master. Chân này chúng ta sẽ nối với nút nhấn để chọn chế độ module LoRa.
-    
+   
+![image](https://user-images.githubusercontent.com/56969447/146667437-3b5c1060-1321-48aa-b8f9-777c3d040c1a.png)
+
+ **Bước 7. Chương trình truyền và nhận của LORA**
+   -  Nếu ở chế độ Master thì ta sẽ cho thực hiện in sô chuỗi “HULA GROUP” sau mỗi lần gói tin được truyền đi. Quá trình này sẽ thực hiện liên tục.
+   -  Nếu ở chế độ Slave thì số chuỗi “HULA GROUP” được nhận tương ứng với gói tin, đồng thời sẽ hiển thị độ lợi SF.
+   
+![image](https://user-images.githubusercontent.com/56969447/146667773-265bb095-6531-4b24-83e8-43c3967c7fd9.png)
+
+###https://tapit.vn/giai-phap-lora-voi-vi-dieu-khien-stm32-va-module-rfm95/?amp=1&fbclid=IwAR2v373FSoXhG9dsPJLAVdjqbpiw0grjTmk3dF1_uN18HOUUTTeMfxSvotg
+
   
   
