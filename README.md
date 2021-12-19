@@ -60,9 +60,9 @@ III. **Code**
    
 ![image](https://user-images.githubusercontent.com/56969447/146667773-265bb095-6531-4b24-83e8-43c3967c7fd9.png)
 
-# CẢM ƠN CÁC BẠN ĐÃ ĐỌC BÀI
+## CẢM ƠN CÁC BẠN ĐÃ ĐỌC BÀI
 
-Tham Khảo: https://tapit.vn/giai-phap-lora-voi-vi-dieu-khien-stm32-va-module-rfm95/?amp=1&fbclid=IwAR2v373FSoXhG9dsPJLAVdjqbpiw0grjTmk3dF1_uN18HOUUTTeMfxSvotg
+Tham Khảo:Tapit
 
   
   
